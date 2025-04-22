@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: repopiip
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/vgama02/repopip
+Author: VGAMA
+Author-email: gamgama90@hotmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary

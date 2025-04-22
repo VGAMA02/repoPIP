@@ -1,0 +1,7 @@
+README.md
+setup.py
+REPOPIP/__init__.py
+repopiip.egg-info/PKG-INFO
+repopiip.egg-info/SOURCES.txt
+repopiip.egg-info/dependency_links.txt
+repopiip.egg-info/top_level.txt
